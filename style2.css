@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(174, 195, 176);
+    color: #180e03d5;
+}
+
+h1{
+    color: #024b02c4;
+}
+
+hr {
+    border-top: 1px dotted rgb(6, 19, 7);
+    }
+
+.dotted-bold-divider {
+    border-top: 5px dashed rgb(22, 51, 6);
+}
+
+h2{
+color: rgba(50, 80, 30,5);
+}
+
+table{
+    background-color: rgba(206, 206, 206, 0.74) ;
+    border-color: black;
+    border-width: 10px;
+}
+#Baslik{
+    background-color: rgb(22, 51, 6);
+    color: rgb(0, 0, 0);
+}
+.paragraflar{
+    color: black;
+    background-color: rgba(30, 97, 27, 0.199);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    ;
+    bord
+    ;
+}
