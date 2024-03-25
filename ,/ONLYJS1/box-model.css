@@ -1,0 +1,27 @@
+/* *{margin:0} 
+
+
+
+h1{
+    border:2px solid red ;
+
+}
+div{
+    width:200px;
+    padding: 150px;
+    font: size 20px;;
+    border-radius:5ch;
+    border: 20px solid red;
+
+    margin:30px 50px 0px 30px;
+} */
+
+
+.box-model{
+    color:#F4EEE0;
+    border: 200px solid;
+    width: 50px;
+    padding: 200px;
+    margin:20px;
+
+}

@@ -1,0 +1,43 @@
+/*
+-------------------------------------------
+BURALARDAKİ KODLAR DEĞİŞTİRİLMEMELİ. EN
+AŞAĞIDAKİ NOTU OKUYALIM
+-------------------------------------------
+*/
+
+body {
+  background-color: #393646;
+  color: #f4eee0;
+}
+
+ul li:not(:last-child), ol li:not(:last-child) {
+  margin-bottom: 5px;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+.same-color-text {
+  color: #f4e1f4;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+ul.task-1-list li span {
+  color: #e1cda3 ;
+}
+
+ul.task-1-list li#third-item {
+  color: #f4e1f4;
+}
+
+/*
+-------------------------------------------
+YUKARIDAKİ KODLARI DEĞİŞTİRMEMELİSİNİZ.
+BURADAN AŞAĞIYA ÇÖZÜMÜNÜZÜ YAZABİLİRSİNİZ.
+-------------------------------------------
+*/
+
+ul.task-1-list li span {
+  color: #e1cda3;
